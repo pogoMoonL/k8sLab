@@ -1,7 +1,7 @@
 # Kubernetes components
 
+<img src="./picture/k8s-component.png" alt="Girl in a jacket" width="500" height="600">
 
-![Alt text](./picture/k8s-component.png)
 
 
 
